@@ -1,0 +1,30 @@
+html{
+    background: red;
+}
+
+h1{
+    color: deepskyblue;
+}
+
+img{
+    width: 480px; 
+    height: 480px;
+}
+
+.thirdDiv{
+    width: 500px; 
+    height: 600px;
+    background: orange;
+    padding: 50px;
+    border: midnightblue;
+}
+
+.spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+
+
+
+
